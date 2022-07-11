@@ -1,4 +1,4 @@
-# The following code outputs the first non repeating element in an array .
+## The following code outputs the first non repeating element in an array .
 ```
 def firstNonRepeatingELement(nums):
   n = len(nums)
