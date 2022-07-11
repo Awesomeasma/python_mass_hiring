@@ -17,3 +17,5 @@ print(firstNonRepeatingElement(nums))
 ## Output:
 
 6
+### Time Complexity: O(n*n)
+### Auxiliary Space: O(1)
